@@ -1,4 +1,3 @@
------------
 [![Go Documentation](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)](https://godoc.org/github.com/1340691923/ElasticView)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/1340691923/ElasticView/blob/main/LICENSE)
 [![Release](https://img.shields.io/github/release/1340691923/ElasticView.svg?label=Release)](https://gitee.com/cynthia520/elastic-view/releases)
@@ -114,9 +113,3 @@ npm run build
 # 构建项目二进制程序
 go build -o ev cmd/ev
 ```
-
-<img src="http://cdn.ycvod.net/img/wx2.jpg" style="width: 220px"> 
-
-### QQ群
-
-<img src="https://raw.githubusercontent.com/1340691923/ElasticView/main/resources/show_img/qq_group.jpg" style="width: 220px">
