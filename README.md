@@ -1,14 +1,3 @@
-﻿<h1 align="center">
-   作者求工作，tel：13298692154
-</h1>
- <h1 align="center">
-   <br>
-   <img src="https://gitee.com/cynthia520/elastic-view/raw/main/static/show_img/2.png"/>
-   <br>
-   ElasticView
-   <br>
-</h1>
-
 -----------
 [![Go Documentation](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)](https://godoc.org/github.com/1340691923/ElasticView)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/1340691923/ElasticView/blob/main/LICENSE)
@@ -125,17 +114,6 @@ npm run build
 # 构建项目二进制程序
 go build -o ev cmd/ev
 ```
-
-## 更多
-
-* 铸龙用户行为分析系统     https://github.com/1340691923/xwl_bi
-* 软考成绩快查工具        https://github.com/1340691923/SoftTestMonitor
-
-### 求职中，个人微信二维码
-
-<!-- ![image](https://gitee.com/cynthia520/elastic-view/raw/main/static/show_img/weixin.jpg)   -->
-<img src="https://raw.githubusercontent.com/1340691923/ElasticView/main/resources/show_img/weixin.jpg" style="width: 220px"> 
-### 求职中，团队成员微信二维码
 
 <img src="http://cdn.ycvod.net/img/wx2.jpg" style="width: 220px"> 
 
